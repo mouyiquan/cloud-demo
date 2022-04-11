@@ -2,3 +2,6 @@
 /user-service/user-service.iml
 /.idea/
 /cloud-demo.iml
+/eureka-server/eureka-server.iml
+/eureka-server/target/
+/order-service/target/
